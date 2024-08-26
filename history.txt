@@ -1,0 +1,521 @@
+    1  ssh-keygen -t ed25519 -C "your_email@example.com"
+    2  ssh-keygen -t ed25519 -C "furore-plus@ukr.net"
+    3  cat .ssh/id_ed25519.pub 
+    4  ssh ec2-user@linux.itcareerhub.de
+    5  1ssh-keygen -t ed25519 -C "furore-plus@ukr.net"a
+    6  mkdir test
+    7  cd test/
+    8  echo "# test" >> README.md
+    9  ls
+   10  git init
+   11  git status
+   12  history
+   13  git add .
+   14  git status
+   15  git commit -m "first commit"
+   16  git config --global user.email "furore-plus@ukr.net"
+   17  git config --global user.name "ghays"
+   18  git commit -m "first commit"
+   19  git remote add origin git@github.com:ramiakhmad/websites.git
+   20  git push -u origin master 
+   21  git status
+   22  ls
+   23  cat README.md 
+   24  ls
+   25  ls -a
+   26  exit
+   27  sudo apt update
+   28  sudo apt install tmate
+   29  tmate
+   30  Создайте простую HTML-страницу с текстовым полем ввода, кнопкой "Сохранить" и блоком, в
+   31  который будет выводиться сохраненное имя. При вводе имени и нажатии кнопки "Сохранить", имя
+   32  ssh ec2-user@linux.itcareerhub.de
+   33  touch example.txt
+   34  chmod u=rwx,example.txt
+   35  chmod u=rwx,g=rx,o=example.txt
+   36  chmod 750 example.txt
+   37  mkdir test_directory
+   38  ll
+   39  ll grip  test_drectory
+   40  chmod g-rwx tes
+   41  chmod g-rwx test_directory
+   42  ll | grep test-
+   43  ssh ec2-user@linux.itcareerhub.de
+   44  ssh ec2-user@linux.itcareerhub.de
+   45  chmod 370 /tmp/file.txt
+   46  nano /tmp/file.txt
+   47  mkdir ich
+   48  cd repositories
+   49  git branch
+   50  branch main
+   51  git branch
+   52  git branch SUPER_BRANCH
+   53  ssh ec2-user@linux.itcareerhub.de
+   54  nano /tmp/file.txt
+   55  chmod g+wx /tmp/file.txt
+   56  chmod o-rwx /tmp/file.txt
+   57  nano ~/myfirstbashscript.sh
+   58  chmod +x ~/myfirstbashscript.sh
+   59  cat ~/myfirstbashscript.sh >> /tmp/file.txt
+   60  history >> /tmp/file.txt
+   61  export_file /tmp/file.txt
+   62  ls
+   63  mkdir git_intro 
+   64  cd git_intro
+   65  git init
+   66  git add photo.jpg
+   67  git add papasohn.jpg
+   68  nano ~/myfirstbashscript.sh
+   69  chmod +x ~/myfirstbashscript.sh
+   70  cp ~/myfirstbashscript.sh /tmp/myfirstbashscript.txt
+   71  export_file /tmp/myfirstbashscript.txt
+   72  ssh ec2-user@linux.itcareerhub.de
+   73  cd /mnt
+   74  ls
+   75  cd d
+   76  ls
+   77  cd Front-End/
+   78  ls
+   79  git init 
+   80  git remote add origin https://github.com/Ghaysdway/MYwork.git
+   81  git branch -M main
+   82  git add --all
+   83  cd /mnt
+   84  cd d
+   85  cd Front-End/
+   86  git init
+   87  git remote add origin https://github.com/Ghaysdway/MYwork.git
+   88  git branch -M main
+   89  git add --all
+   90  ls
+   91  cd Linux/
+   92  ls
+   93  git add --all
+   94  git commit -m "work linux"
+   95  git add
+   96  git add .
+   97  git add --all
+   98  git config
+   99  git add --all
+  100  git add .
+  101  ls
+  102  git add Linux/
+  103  git add Linux
+  104  git add --all
+  105  git checkout -b feature-1
+  106  git checkout -b feature-2
+  107  vim index.html
+  108  git checkout -b feature-3
+  109  touch feature-3.txt
+  110  git add --add
+  111  ssh ec2-user@linux.itcareerhub.de
+  112  cd /mnt
+  113  ls
+  114  cd d
+  115  ls
+  116  git init
+  117  git remote add origin https://github.com/Ghaysdway/MYwork.git
+  118  git branch -M main
+  119  git add Front-End
+  120  cd Front-End
+  121  ls
+  122  cd Linux
+  123  git add --all
+  124  git commit -m "work linux"
+  125  git push -u origin main
+  126  git push origin main
+  127  cd d
+  128  cd linux
+  129  cd..
+  130  git push origin master
+  131  exit
+  132  git init
+  133  git remote add origin https://github.com/Ghaysdway/MYwork.git
+  134  git branch -M main
+  135  cd mnt
+  136  cd mnt/
+  137  cd /mnt
+  138  cd d
+  139  ls
+  140  cd Front-End
+  141  ls
+  142  cd другие
+  143  git add --all
+  144  git commit -m "work linux"
+  145  git push origin main
+  146  git push -u origin main
+  147  cd /mnt
+  148  cd d
+  149  ls
+  150  cd Front-End
+  151  git init
+  152  git remote add origin git@github.com:Ghaysdway/HW.git
+  153  exit
+  154  cd /mnt
+  155  cd d
+  156  ls
+  157  cd Front-End
+  158  git init
+  159  git remote add origin git@github.com:Ghaysdway/HW.git
+  160  git branch -M main
+  161  git add --all
+  162  git commit -m "first commit"
+  163  git commit -m "secound commit"
+  164  git push origin main
+  165  Ghaysdway
+  166  exit
+  167  git init
+  168  git remote add origin git@github.com:Ghaysdway/HW.git
+  169  git branch -M main
+  170  cd /mnt
+  171  cd d
+  172  cd Front-End
+  173  git add --all
+  174  git commit -m "work"
+  175  cd Linux
+  176  git add --all
+  177  git commit -m "work"
+  178  cd-
+  179  cd /mnt
+  180  cd d
+  181  cd Front-End
+  182  cd/path/to/your/repository
+  183  git add -all
+  184  git add --all
+  185  cd /path/to/your/repository
+  186  cd /mnt
+  187  cd d
+  188  cd Front-End
+  189  git init
+  190  git remote add origin git@github.com:Ghaysdway/HW.git
+  191  git branch -M main
+  192  git add --all
+  193  git commit -m "Добавил все работы на гитхаб"
+  194  exit
+  195  ssh ec2-user@linux.itcareerhub.de
+  196  cron -l
+  197  crontab -e
+  198  ssh ec2-user@linux.itcareerhub.de
+  199  cd mnt
+  200  cd d
+  201  cd /d
+  202  cd /mnt 
+  203  cd d
+  204  ls
+  205  cd Front-End
+  206  git add
+  207  git add --all
+  208  git init
+  209  git add --all
+  210  git init
+  211  git add --all
+  212  git init
+  213  git add --all
+  214  git status
+  215  git commit -a
+  216  exit
+  217  cd /home
+  218  git clone git@github.com:Ghaysdway/career.git
+  219  cd..
+  220  git config --global user.name "Your Name"
+  221  git config --global user.name "ghays"
+  222  git config --global user.email "furore-plus@ukr.net"
+  223  cat ~git@github.com:Ghaysdway/HW.git
+  224  cd mnt 
+  225  cdcd d
+  226  cd..
+  227  exit
+  228  cd mnt
+  229  cd d
+  230  cd mnt
+  231  cd /mnt
+  232  cd d
+  233  ls
+  234  cd Front-End
+  235  ls 
+  236  ls -al ~/.ssh
+  237  cd linux
+  238  git add --all
+  239  git init 
+  240  git status
+  241  cat ~SHA256:qzhgVqdMkXr4JTciL7YkPuuHhsaEjxr1tFkfPoFIjqI
+  242  git clone git@github.com:Ghaysdway/HW.git
+  243  git init 
+  244  git add --all
+  245  git commit -m "first commit"
+  246  git push origin main
+  247  git push -u origin main
+  248  git remote add origin git@github.com:Ghaysdway/HW.git
+  249  git add --all
+  250  git commit
+  251  git commit -m "first commit"
+  252  git branch -M main
+  253  git commit -m "first commit"
+  254  git add --all
+  255  git commit -m "first commit"
+  256  git push -u origin main
+  257  git push origin main
+  258  ls -al ~/.ssh
+  259  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  260  ssh-keygen -t rsa -b 4096 -C "furore-plus@ukr.net"
+  261  eval "$(ssh-agent -s)"
+  262  ssh-add ~/.ssh/id_rsa
+  263  cat ~/.ssh/id_rsa.pub
+  264  ssh -T git@github.com
+  265  git push origin main
+  266  cd /mnt
+  267  cd d
+  268  ls
+  269  cd Front-End
+  270  ls
+  271  git add --all
+  272  ls
+  273  cd Trail-version
+  274  cd..
+  275  cd d
+  276  ls
+  277  cd Trail-version
+  278  cd-
+  279  cd -
+  280  cd..
+  281  ls
+  282  cd.
+  283  cd ..
+  284  cd /mnt
+  285  cd d
+  286  ls
+  287  cd Front-End
+  288  git add --all
+  289  git remote add origin git@github.com:Ghaysdway/HW.git
+  290  git init
+  291  git add --all
+  292  git commit -m
+  293  git commit -m main
+  294  git push origin main
+  295  git remote -v
+  296  git remote set-url origin git@github.com:Ghaysdway/HW.git
+  297  git add --all
+  298  git status
+  299  git add --all
+  300  git add  Linux
+  301  git status
+  302  git commit -m "commit"
+  303  git push origin main
+  304  git push -f origin main
+  305  ls
+  306  cd work
+  307  git add --all
+  308  do -sh .
+  309  du -sh .
+  310  cd ..
+  311  du -sh .
+  312  cd work
+  313  git add.
+  314  cd ..
+  315  git add work
+  316  git status
+  317  ls
+  318  git add work
+  319  git ls-files -s
+  320  git commit -m "commit"
+  321  git log --oneline
+  322  git push
+  323  git push origin main
+  324  git push -f origin main
+  325  rm -rf .git
+  326  cd ..
+  327  git clone git@github.com:Ghaysdway/work.git
+  328  cd work
+  329  ls
+  330  cp -r ../Front-End/work .
+  331  ls
+  332  git status
+  333  git add --all
+  334  git commit -m "added work directory"
+  335  git push
+  336  cd ..
+  337  ls
+  338  cd Front-End
+  339  ls
+  340  git add Trial-version
+  341  cd Trial-version
+  342  git add --all
+  343  cp -r ../Front-End/Trial-version .
+  344  git clone git@github.com:Ghaysdway/work.git 
+  345  cp -r ../Trial-version/work .
+  346  cp -r ./work .
+  347  cp -r ../work ..
+  348  cp -r ../work .
+  349  git add --all
+  350  git push
+  351  git remote set-url origin git@github.com:Ghaysdway/work.git
+  352  cd .
+  353  cd ..
+  354  git remote set-url origin git@github.com:Ghaysdway/work.git
+  355  cd /mnt
+  356  cd d
+  357  ls
+  358  cd Front-End
+  359  ls
+  360  git add Trial-version
+  361  cd Trial-version
+  362  git add --all
+  363  git init
+  364  git status
+  365  git remote add origin git@github.com:Ghaysdway/Trial-version.git
+  366  git branch -M main
+  367  git add --all
+  368  git add HW slack
+  369  ls
+  370  git add 'HW slack'
+  371  git commit -m 'Hw slack'
+  372  git push
+  373  git push origin main
+  374  cd ..
+  375  ls
+  376  git add Trial-version
+  377  git remote add origin git@github.com:Ghaysdway/Trial-version.git
+  378  git remote set-url origin git@github.com:Ghaysdway/Trial-version.git
+  379  git remote add origin git@github.com:Ghaysdway/Trial-version.git
+  380  cd ..
+  381  git remote set-url origin git@github.com:Ghaysdway/Trial-version.git
+  382  git remote add origin git@github.com:Ghaysdway/Trial-version.git
+  383  git push
+  384  cd /mnt
+  385  cd d 
+  386  ls
+  387  cd Front-end
+  388  ls
+  389  cd Trial-version
+  390  ls
+  391  cd HW slack
+  392  cd 'HW slack'
+  393  git add Projects
+  394  git commit
+  395  git commit -m 'projects'
+  396  git push
+  397  git push origin main
+  398  git commit -m 'change name'
+  399  git push origin main
+  400  cd ..
+  401  git commit -m 'change name'
+  402  git push origin main
+  403  cd /mnt
+  404  cd d
+  405  git remote add origin git@github.com:Ghaysdway/frontend.git
+  406  echo "# frontend" >> README.md
+  407  git init
+  408  git add README.md
+  409  git commit -m "first commit"
+  410  git branch -M main
+  411  git remote add origin git@github.com:Ghaysdway/frontend.git
+  412  git push -u origin main
+  413  ls
+  414  git add frontend
+  415  git clone git@github.com:Ghaysdway/frontend.git
+  416  rm -rf .git
+  417  git clone git@github.com:Ghaysdway/myfrontend.git
+  418  git remote add origin git@github.com:Ghaysdway/myfrontend.git
+  419  git status
+  420  git init
+  421  git remote add origin git@github.com:Ghaysdway/myfrontend.git
+  422  git add frontend
+  423  git clone git@github.com:tritonJS826/career.git
+  424  git status
+  425  cd career$
+  426  git clone git@github.com:tritonJS826/career.git
+  427  git clone
+  428  git clone git@github.com:tritonJS826/career.git
+  429  cd ..
+  430  cd..
+  431  git clone git@github.com:tritonJS826/career.git
+  432  git chickout -b ghays
+  433  git pull
+  434  git checkout -b ghays
+  435  git pull
+  436  git checkout -b ghays
+  437  git pull
+  438  cd career
+  439  git pull
+  440  git checkout -b ghays
+  441  git branch -a
+  442  touch myfile
+  443  git add --all
+  444  git commit -m
+  445  git commit -m 'work'
+  446  gti push origin ghays
+  447  git push origin ghays
+  448  cd /mnt
+  449  cd d
+  450  ls
+  451  cd frontend
+  452  ls
+  453  Linux
+  454  cd Linux
+  455  ls
+  456  cd linux HW
+  457  cd 'linux HW'
+  458  ls
+  459  cd 'HW 8'
+  460  ls
+  461  cd git_intro
+  462  git init
+  463  git add --all
+  464  git commit -m "added my photo"
+  465  git branch -M main
+  466  git remote add origin git@github.com:Ghaysdway/git_intro.git
+  467  git push -u origin main
+  468  cd ..
+  469  ls
+  470  cd 'HW 10'
+  471  ls
+  472  cd git-branch
+  473  git init
+  474  git checkout -b gitignore
+  475  touch .gitignore
+  476  nano .gitignore
+  477  git add --all
+  478  git commit -m 'added HW 10'
+  479  git remote add origin git@github.com:Ghaysdway/git-branch.git
+  480  git push -u origin gitignore
+  481  vim script_26-08.sh
+  482  vim script_26-8.sh
+  483  vim script_26_08.sh
+  484  cd /mnt 
+  485  cd d 
+  486  ls
+  487  cd frontend
+  488  ls
+  489  cd linux
+  490  ls
+  491  cd 'linux Hw'
+  492  ls
+  493  cd HW-12
+  494  git clone https://github.com/Ghaysdway/ignore.git
+  495  cd ignore
+  496  git checkout -b feature
+  497  touch README.md
+  498  echo "# My Project" >README.md
+  499  echo "# Ignoring" >> .gitignore
+  500  echo "*.log" >> .gitignore
+  501  git add README.md .gitignore
+  502  git commit -m "добавил два файла для игнора"
+  503  git push -u origin feature
+  504  git clone git@github.com:Ghaysdway/ignore.git
+  505  cd ignore
+  506  git checkout -b feature
+  507  touch README.md
+  508  echo "# My Project" >README.md
+  509  echo "# Ignoring" >> .gitignore
+  510  echo "*.log" >> .gitignore
+  511  git add README.md .gitignore
+  512  git commit -m "добавил два файла для игнора"
+  513  git push -u origin feature
+  514  git commit --amend -m "добавил два файла для игнора - amend"
+  515  git push - f
+  516  git push -f
+  517  git checkout main
+  518  git merge feature 
+  519  gti push origin main
+  520  git push origin main
+  521  history > history.txt
